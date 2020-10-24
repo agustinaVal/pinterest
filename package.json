@@ -28,5 +28,9 @@
     "eslint-plugin-vue": "^6.2.2",
     "vue-cli-plugin-vuetify": "~2.0.7",
     "vue-template-compiler": "^2.6.11"
-  }
+  },
+  "main": "index.js",
+  "repository": "https://github.com/agustinaVal/Pinterest.git",
+  "author": "Agustina <maria.agustina.valenti89@gmail.com>",
+  "license": "MIT"
 }
